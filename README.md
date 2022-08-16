@@ -1,1 +1,7 @@
 # SAJJAD
+
+cd SAJJAD-FREE
+
+
+
+
